@@ -2,6 +2,10 @@
 
 A collection of React mini projects built while learning and practicing modern React development. Each project focuses on a specific concept such as state management, component composition, form handling, API integration, and user interaction.
 
+## Live Demo
+[Live Demo](https://react-mini-projects-five-mu.vercel.app/)
+
+
 ## Live Demos
 
 | Project               | Live Demo                                    |
