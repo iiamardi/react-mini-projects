@@ -1,16 +1,62 @@
-# React + Vite
+# React Mini Projects ⚛️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of React mini projects built while learning and practicing modern React development. Each project focuses on a specific concept such as state management, component composition, form handling, API integration, and user interaction.
 
-Currently, two official plugins are available:
+## Live Demos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+| Project               | Live Demo                                    |
+| --------------------- | -------------------------------------------- |
+| Counter App           | https://counter-eight-beige.vercel.app/      |
+| Calculator App        | https://calculator-eight-chi-70.vercel.app/  |
+| Accordion App         | https://accordion-wheat-kappa.vercel.app/    |
+| Todo App              | https://todo-rosy-seven-64.vercel.app/       |
+| Form Validator App    | https://form-validator-pearl-one.vercel.app/ |
+| Meals App             | https://meals-orpin.vercel.app/              |
+| Color Toggler App     | https://color-toggler-kg7g.vercel.app/       |
+| Hidden Search Bar App | https://hidden-searchbar-sigma.vercel.app/   |
+| Testimonials App      | https://testimonials-livid.vercel.app/       |
 
-## React Compiler
+## Projects Included
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* ✅ Counter App
+* ✅ Calculator App
+* ✅ Accordion App
+* ✅ Todo App
+* ✅ Form Validator App
+* ✅ Meals App
+* ✅ Color Toggler App
+* ✅ Hidden Search Bar App
+* ✅ Testimonials App
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* JavaScript (ES6+)
+* CSS
+* HTML
+* REST API (Meals App)
+* Git & GitHub
+* Vercel
+
+## Concepts Practiced
+
+* React Components
+* Props
+* State Management with `useState`
+* `useEffect`
+* Conditional Rendering
+* Event Handling
+* List Rendering with `.map()`
+* Form Handling & Validation
+* Fetching Data from REST APIs
+* Dynamic UI Updates
+* Component Reusability
+
+## Purpose
+
+These projects were created to strengthen my understanding of React fundamentals through hands-on practice. Each application focuses on solving a specific problem while reinforcing core concepts used in modern React development.
+
+As I continue learning, this repository will grow with more advanced projects covering topics such as routing, authentication, state management, backend integration, and full-stack development.
+
+---
+
